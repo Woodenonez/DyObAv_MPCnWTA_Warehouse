@@ -1,6 +1,8 @@
 # Dynamic Obstacle Avoidance: Iterative Prediction (SWTA) and Control (MPC)
 To explore safer interactions between mobile robots and dynamic obstacles, this work presents a comprehensive approach to collision-free navigation in indoor environments. The proposed approach is an integration of multimodal motion predictions of dynamic obstacles and predictive control for obstacle avoidance. Motion prediction is achieved by a deep learning method that predicts plausible future positions. Model Predictive Control (MPC) solvers later generate a collision-free trajectory for the mobile robot.
 
+**Please find my new work**: [Future-Oriented Navigation: Dynamic Obstacle Avoidance with One-Shot Energy-Based Multimodal Motion Prediction](https://github.com/Woodenonez/DyObAv-MPCnEBM-Warehouse/), with a ROS2 implementation available.
+
 ## Publication
 The paper is available: [Prescient Collision-Free Navigation of Mobile Robots With Iterative Multimodal Motion Prediction of Dynamic Obstacles](https://ieeexplore.ieee.org/document/10185133?source=authoralert)  \
 Bibtex citation:
